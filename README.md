@@ -9,6 +9,7 @@ It is a Search images app where anyone can get free images by searching and can 
   4. use **npm install** for installing all dependency written in package.json
 
 # ACESS KEY
+- Need to Register as a developer in unplash for using their api and assigned ACCESS_KEY  in ACCESS_KEY      variable of **config.js** file .
 ```sh
    export const ACCESS_KEY = 'XXXXXXX';
 ```

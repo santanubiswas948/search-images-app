@@ -17,12 +17,11 @@ It is a Search images app where anyone can get free images by searching and can 
   After download project run the project using **npm start** command search-images-app folder and
   it will open in your default browser on localhost:3000
 
-# Sample
-- Images1
+# Sample1
 ![Sample1](https://github.com/santanubiswas948/search-images-app/blob/master/public/sample1.PNG)
-- Images2
+# Sample2
 ![Sample2](https://github.com/santanubiswas948/search-images-app/blob/master/public/sample2.PNG)
-- Images3
+# Sample3
 ![Sample3](https://github.com/santanubiswas948/search-images-app/blob/master/public/sample3.PNG)
-- Images4
+# Sample4
 ![Sample4](https://github.com/santanubiswas948/search-images-app/blob/master/public/sample4.PNG)

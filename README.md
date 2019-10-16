@@ -18,7 +18,7 @@ It is a Search images app where anyone can get free images by searching and can 
   it will open in your default browser on localhost:3000
 
 # Sample Images
-![Sample1](https://github.com/santanubiswas948/search-images-app/public/sample1.png)
-![Sample2](https://github.com/santanubiswas948/search-images-app/public/sample2.png)
-![Sample3](https://github.com/santanubiswas948/search-images-app/public/sample3.png)
-![Sample4](https://github.com/santanubiswas948/search-images-app/public/sample4.png)
+![Sample1](https://github.com/santanubiswas948/search-images-app/blob/master/public/sample1.PNG)
+![Sample2](https://github.com/santanubiswas948/search-images-app/blob/master/public/sample2.PNG)
+![Sample3](https://github.com/santanubiswas948/search-images-app/blob/master/public/sample3.PNG)
+![Sample4](https://github.com/santanubiswas948/search-images-app/blob/master/public/sample4.PNG)
